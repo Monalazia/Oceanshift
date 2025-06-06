@@ -123,5 +123,19 @@
     "quote3": "Their specialized shipping solutions have been crucial for our sensitive equipment transport. Truly a partner we can trust.",
     "author3": "Emma Thompson",
     "company3": "MedTech Innovations"
+  },
+  "stats": {
+    "title": "Our Global Impact",
+    "subtitle": "Leading the way in global logistics",
+    "experience": "Years Experience",
+    "countries": "Countries Served",
+    "shipments": "Annual Shipments",
+    "satisfaction": "Client Satisfaction"
+  },
+  "cta": {
+    "title": "Ready to Optimize Your Shipping?",
+    "subtitle": "Join thousands of businesses that trust us with their global logistics needs",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More"
   }
 }
