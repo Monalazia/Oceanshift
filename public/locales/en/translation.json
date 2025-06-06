@@ -1,0 +1,127 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "tracking": "Tracking",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "hero": {
+    "title": "Global Shipping & Logistics Solutions",
+    "subtitle": "Streamlined shipping and supply chain solutions for businesses of all sizes. Connecting continents with reliability and precision.",
+    "cta": "Get a Quote",
+    "trackShipment": "Track Shipment"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive logistics solutions tailored to your business needs.",
+    "oceanFreight": "Ocean Freight",
+    "airFreight": "Air Freight",
+    "roadTransport": "Road Transportation",
+    "warehousing": "Warehousing",
+    "supplyChain": "Supply Chain Solutions",
+    "specialized": "Specialized Shipping",
+    "learnMore": "Learn More",
+    "oceanFreight.desc": "Reliable and cost-effective ocean shipping solutions for containers and bulk cargo.",
+    "airFreight.desc": "Express air freight services for time-sensitive shipments.",
+    "roadTransport.desc": "Comprehensive inland transportation services with tracking capabilities.",
+    "warehousing.desc": "State-of-the-art warehousing facilities with inventory management.",
+    "supplyChain.desc": "End-to-end supply chain management with optimization strategies.",
+    "specialized.desc": "Expert handling of hazardous materials and oversized cargo."
+  },
+  "about": {
+    "title": "About OceanicShift",
+    "subtitle": "Global shipping and logistics excellence since 2010",
+    "story": {
+      "title": "Our Story",
+      "p1": "Founded in 2010, OceanicShift began with a simple mission: to transform global shipping through innovation and reliability. What started as a small operation in San Francisco has grown into a worldwide logistics network serving over 120 countries.",
+      "p2": "Our journey has been defined by a relentless focus on creating seamless supply chain solutions that empower businesses of all sizes to reach global markets efficiently.",
+      "p3": "Today, OceanicShift stands as an industry leader, trusted by thousands of companies worldwide for their most critical shipping needs."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide everything we do",
+      "reliability": "Reliability & Trust",
+      "reliability.desc": "We understand that businesses depend on consistent, trustworthy service.",
+      "innovation": "Innovation & Efficiency",
+      "innovation.desc": "We continuously seek better ways to serve our clients through technological innovation.",
+      "customer": "Customer Focus",
+      "customer.desc": "Our clients' success is our success.",
+      "excellence": "Excellence & Integrity",
+      "excellence.desc": "We hold ourselves to the highest standards in every aspect of our operations."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for shipping inquiries, quotes, and support",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "+1 (888) 123-4567",
+    "message": "Message",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "address": "123 Shipping Lane, Harbor District, San Francisco, CA 94111",
+    "thankYou": "Thank You!",
+    "messageReceived": "We have received your message and will get back to you shortly.",
+    "sendAnother": "Send Another Message",
+    "errors": {
+      "name": "Please enter your name",
+      "emailRequired": "Please enter your email",
+      "emailInvalid": "Please enter a valid email",
+      "message": "Please enter your message"
+    },
+    "subjects": {
+      "general": "General Inquiry",
+      "quote": "Shipping Quote",
+      "tracking": "Tracking Issue",
+      "partnership": "Business Partnership",
+      "other": "Other"
+    },
+    "selectSubject": "Select a subject"
+  },
+  "tracking": {
+    "title": "Track Your Shipment",
+    "subtitle": "Enter your tracking number to get real-time updates",
+    "placeholder": "Enter tracking number (e.g. OS-294073156)",
+    "errorEmpty": "Please enter a tracking number",
+    "demoHint": "For demonstration purposes, try tracking number: OS-294073156",
+    "trackingLabel": "Tracking Number",
+    "origin": "Shanghai, China",
+    "destination": "Los Angeles, USA",
+    "estimatedArrival": "Estimated Arrival",
+    "lastUpdate": "Last Update",
+    "shipmentUpdates": "Shipment Updates",
+    "eta": "Jun 15, 2025",
+    "status": {
+      "inTransit": "In Transit"
+    },
+    "globalCoverage": "Global Coverage",
+    "globalCoverageDesc": "Track shipments worldwide with real-time updates",
+    "realTime": "Real-Time Updates",
+    "realTimeDesc": "Get instant notifications on your shipment status",
+    "advanced": "Advanced Tracking"
+  },
+  "footer": {
+    "description": "Pioneering global logistics with cutting-edge solutions since 2010. We connect businesses across oceans with reliability and precision.",
+    "services": "Our Services",
+    "quickLinks": "Quick Links",
+    "rights": "All rights reserved",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "cookies": "Cookies"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Hear from businesses that trust us with their shipping needs",
+    "quote1": "OceanicShift has transformed our international shipping operations. Their reliable service and innovative tracking system have significantly improved our supply chain efficiency.",
+    "author1": "Sarah Chen",
+    "company1": "Global Tech Solutions",
+    "quote2": "The level of customer service and attention to detail is outstanding. They've helped us expand our business globally with confidence.",
+    "author2": "Michael Rodriguez",
+    "company2": "EcoTrade International",
+    "quote3": "Their specialized shipping solutions have been crucial for our sensitive equipment transport. Truly a partner we can trust.",
+    "author3": "Emma Thompson",
+    "company3": "MedTech Innovations"
+  }
+}
